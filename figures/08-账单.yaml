@@ -1,0 +1,15 @@
+type: bill
+title: 三样护肤品，摊到每个月要花多少
+bills:
+  - name: 便宜的一套（一次买齐约两百）
+    rows:
+      - {label: 洗面奶, sub: "七十多一支，能用两个多月", amount: "约 30"}
+      - {label: 保湿乳, sub: "七十多一大瓶，只涂脸，能用大半年", amount: "约 10"}
+      - {label: 防晒, sub: "四十多一支，涂够量不到三周见底", amount: "约 75", kind: hidden}
+    total: 一百出头/月
+  - name: 贵一点的一套（一次买齐约三百）
+    rows:
+      - {label: 洗面奶, sub: "一百出头一支，能用三个多月", amount: "约 30"}
+      - {label: 保湿霜, sub: "一百出头一小罐，一个多月用完", amount: "约 80"}
+      - {label: 防晒, sub: "九十多一支，涂够量两周见底", amount: "约 230", kind: hidden}
+    total: 三百多/月

@@ -1,0 +1,59 @@
+# 正文一改就重新生成两样下载，挂到固定的 Release「latest」上，链接不变：
+#   PDF         https://github.com/chuxainpei/how-to-be-yuppie/releases/download/latest/how-to-be-yuppie.pdf
+#   离线单文件  https://github.com/chuxainpei/how-to-be-yuppie/releases/download/latest/how-to-be-yuppie.html
+# PR 只生成，不发布，产物在 Actions 页面的 artifact 里。
+name: 下载文件
+
+on:
+  push:
+    branches: [main]
+    paths: [README.md, index.html, book/**, data/**, figures/**, assets/**, tools/**, vendor/**, .github/workflows/book.yml]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: book-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: 字体与依赖
+        run: |
+          sudo apt-get update -q && sudo apt-get install -y -q libpango-1.0-0 libpangoft2-1.0-0
+          pip install -q weasyprint markdown pyyaml
+          mkdir -p fonts && cd fonts
+          B=https://github.com/notofonts/noto-cjk/raw/main
+          for f in Sans/OTF/SimplifiedChinese/NotoSansCJKsc-Regular.otf Sans/OTF/SimplifiedChinese/NotoSansCJKsc-Bold.otf Serif/OTF/SimplifiedChinese/NotoSerifCJKsc-Regular.otf Serif/OTF/SimplifiedChinese/NotoSerifCJKsc-Bold.otf; do curl -fsSL -o "$(basename $f)" "$B/$f"; done
+          ls -la
+      - name: 检查正文
+        run: python3 tools/book.py check
+      - name: PDF
+        env:
+          BOOK_FONT_DIR: ${{ github.workspace }}/fonts
+        run: |
+          python3 tools/book.py pdf
+          cp "dist/精致大学生的第0课.pdf" dist/how-to-be-yuppie.pdf
+      - name: 离线单文件
+        run: python3 tools/offline.py
+      - uses: actions/upload-artifact@v4
+        with:
+          name: how-to-be-yuppie
+          path: |
+            dist/how-to-be-yuppie.pdf
+            dist/how-to-be-yuppie.html
+      - name: 发布到 Release latest
+        if: github.event_name != 'pull_request'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh release view latest >/dev/null 2>&1 || gh release create latest --title "最新版（自动生成）" --notes "正文每次更新后自动重新生成。PDF 与离线单文件的下载链接固定不变。"
+          gh release upload latest dist/how-to-be-yuppie.pdf dist/how-to-be-yuppie.html --clobber

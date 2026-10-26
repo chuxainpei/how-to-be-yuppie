@@ -1,0 +1,14 @@
+type: bill
+title: 菜单上写的，和你最后签字的
+bills:
+  - name: 一个人，一套酒店下午茶
+    rows:
+      - {label: 下午茶套餐, sub: 菜单上的大字, amount: "199"}
+      - {label: 服务费 15%, sub: 菜单底部的小字, amount: "约 30", kind: hidden}
+    total: "约 229 元"
+  - name: 一个人，一份酒店早午餐
+    rows:
+      - {label: 早午餐套餐, sub: 菜单上的大字, amount: "688"}
+      - {label: 服务费 15%, sub: 菜单底部的小字, amount: "约 103", kind: hidden}
+      - {label: 饮品 / 畅饮, sub: 另点另算，也要乘服务费, amount: "另计", kind: hidden}
+    total: "约 791 元起"

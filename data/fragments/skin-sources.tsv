@@ -1,0 +1,33 @@
+source_id	title	url	publisher	source_type	published_date	accessed_date	verification_status	supports	topic_ids
+SRC-S-001	中国痤疮治疗指南（2019修订版）（好大夫在线陈利华医生转载全文）	https://www.haodf.com/neirong/wenzhang/8050830783.html	中国痤疮治疗指南专家组（原载临床皮肤科杂志2019;48(9):583-588）；好大夫在线转载	professional_guideline	2019-10-11	2026-10-19	read_supported	定义、95%/3–7%、3度4级分级、外用与系统用药要点、异维A酸疗程/不良反应/避孕、激素治疗、光电与化学剥脱定位、维持治疗3–12月、后遗症处理、护肤与随访	S01;S02;S03
+SRC-S-002	How to apply sunscreen	https://www.aad.org/public/everyday-care/sun-protection/shade-clothing-sunscreen/how-to-apply-sunscreen	American Academy of Dermatology	professional_guideline	2025-08-15	2026-10-19	read_supported	SPF30+、防水、广谱；出门前15分钟；面部至少1茶匙；两小时补涂；晒伤常因少涂未补	S01
+SRC-S-003	6 skin care habits that can clear acne	https://www.aad.org/public/diseases/acne/skin-care/tips	American Academy of Dermatology	professional_guideline	2022-11-16	2026-10-19	read_supported	每天最多洗两次、温和无磨砂、不用工具搓；避免收敛水爽肤水去角质；坚持治疗数周到数月；挤抠致疤与色沉；防晒	S01;S02
+SRC-S-004	How to treat different types of acne	https://www.aad.org/public/diseases/acne/diy/types-breakouts	American Academy of Dermatology	professional_guideline	2023-09-12	2026-10-19	read_supported	白头/黑头/丘疹/脓疱/结节囊肿描述；黑点不是脏东西；6–8周评估；结节囊肿需皮肤科	S02
+SRC-S-005	Pimple popping: Why only a dermatologist should do it	https://www.aad.org/public/diseases/acne/skin-care/popping	American Academy of Dermatology	professional_guideline	2023-10-17	2026-10-19	read_supported	自挤后果；冰敷；激素注射48–72小时变平且仅医生；粉刺清除很少首选、可能贵；4–6周无效找医生	S02
+SRC-S-006	Treating acne? Is it time to see a dermatologist?	https://www.aad.org/public/diseases/acne/diy/when-derm	American Academy of Dermatology	professional_guideline		2026-10-19	located_only	页面标题已获取，正文为脚本渲染未读到	S02
+SRC-S-007	化妆品监督管理条例（国务院令第727号）	https://www.gov.cn/zhengce/content/2020-06/29/content_5522593.htm	国务院	government_policy	2020-06-29	2026-10-19	read_supported	第十六条防晒属特殊化妆品；第十七条特殊化妆品注册；第三十七条标签禁止医疗作用	S01
+SRC-S-008	转发：化妆品监督管理常见问题解答（一）	https://yjj.beijing.gov.cn/yjj/zwgk20/gg17/1694879/index.html	北京市药品监督管理局（转发国家药监局）	government_policy	2019-01-10	2026-10-19	read_supported	化妆品宣称“药妆”“医学护肤品”属于违法行为	S01
+SRC-S-009	医疗美容服务管理办法（卫生部令第19号）	https://www.gov.cn/gongbao/content/2003/content_62198.htm	国务院公报（卫生部）	government_policy	2002-01-22	2026-10-19	read_supported	第二条医疗美容定义；第二十条书面告知并签字；第三十一条疾病治疗中的医疗美容活动不受本办法调整	S02;S03
+SRC-S-010	医疗美容服务管理办法（2016修订）	https://www.nhc.gov.cn/wjw/c100221/202201/d7e8fa33a26b425da98d69fb04191699.shtml	国家卫生健康委员会	government_policy	2016-01-19	2026-10-19	restricted	本轮访问HTTP 412；检索摘录显示第二条定义未变	S02;S03
+SRC-S-011	医事服务费收费和报销标准	https://www.beijing.gov.cn/fwcj/jiage/ylfw1/65dd69d311a82834a863974d.html	北京市人民政府门户网站（首都之窗）	government_policy		2026-10-19	read_supported	三级/二级/一级医事服务费及报销、自付金额	S02;S03
+SRC-S-013	珂润润浸保湿洁颜泡沫 150ml 产品页	https://www.kao.com/cn/products/curel/crl_facewash_00/	花王（中国）	merchant_rule		2026-10-19	read_supported	弱酸性、氨基酸表活、泡沫不用过分揉搓（商户说明，无价格）	S01
+SRC-S-014	珂润润浸保湿滋润乳霜 40g 产品页	https://www.kao.com/cn/products/curel/crl_facecream_00/	花王（中国）	merchant_rule		2026-10-19	read_supported	产品规格与定位（无价格）；正文未引用	S01
+SRC-S-015	淘宝产品列表：珂润洁面（天猫超市卡片）	https://mobile-phone.taobao.com/chanpin/cb15c99b004e249b2551924fa2ee1bff311d8b671bed5fef022f0581d4c24316.html	淘宝	platform_listing		2026-10-19	read_supported	天猫超市珂润150ml 76元（浏览器读取列表卡片）	S01
+SRC-S-016	淘宝产品列表：适乐肤氨基酸洁面	https://mobile-phone.taobao.com/chanpin/f8fdd50638290d89a1f692a1e47f94875f408b60edf678ebc61318caaa9aa1992557ead5cfd722482b0d1032e03c2a7f.html	淘宝	platform_listing		2026-10-19	read_supported	多店卡片价53.90–300元，规格/渠道混杂，未入价格表	S01
+SRC-S-017	淘宝产品列表：芙丽芳丝净润洗面霜	https://mobile-phone.taobao.com/chanpin/b9365c3dd2e6112ee9fe2869e39365de289638fdacfcbdb6fe0f82f4009846e61f82279c32cf8d26a94b05fff5033596.html	淘宝	platform_listing		2026-10-19	read_supported	屈臣氏官方旗舰店100g 104.70元	S01
+SRC-S-018	虎窝淘：珂润滋润乳霜40g（天猫国际自营）	https://tao.hooos.com/goods_GBkDnkPt8tpMjp6sYvocQtJ-PNzeejCK39MyB4Zug.html	虎窝淘（天猫价格镜像）	platform_listing		2026-10-19	read_supported	优惠价110.2/在售价149/原价188，活动期10-15至10-20	S01
+SRC-S-019	虎窝淘：适乐肤C乳236/473ml（天猫国际自营妙颜社）	https://tao.hooos.com/goods_AOBbq7jczt4XPXmN3gumJQsvtn-aAZjjVSYPyxPWgJhg.html	虎窝淘（天猫价格镜像）	platform_listing		2026-10-19	read_supported	优惠价74.1/在售价128/原价199	S01
+SRC-S-020	虎窝淘：薇诺娜舒敏保湿特护霜50g（中港大药房旗舰店）	https://tao.hooos.com/goods_D2jXrwXtDt5QPQBWy6UQOnCjtn-vz2ooBs8e5rG7b6Hz.html	虎窝淘（天猫价格镜像）	platform_listing		2026-10-19	read_supported	优惠价112/原价159，包邮	S01
+SRC-S-021	虎窝淘：安热沙小金瓶60ml（天猫国际自营）	https://tao.hooos.com/goods_XbdQGGMIGtXagakOW6tVYJsBtg-aAZjjVSdWnPjgoDIX.html	虎窝淘（天猫价格镜像）	platform_listing		2026-10-19	read_supported	优惠价94.05/在售价113/原价333	S01
+SRC-S-022	虎窝淘：理肤泉大哥大50ml（塞纳妆园保税）	https://tao.hooos.com/goods_zDxQO5D3ietaV6VYv9rivdPUdt4-DokRR8IPkJjn4wztO.html	虎窝淘（淘宝价格镜像）	platform_listing		2026-10-19	read_supported	优惠价118/在售价139，包邮，月销1	S01
+SRC-S-023	虎窝淘：碧柔水活防晒水凝露90ml（碧柔官方旗舰店）	https://tao.hooos.com/goods_enJ9voYiDtdJYdDGPRu8BXtzt0-OpRwwaFxDRKbMQVHZ.html	虎窝淘（天猫价格镜像）	platform_listing		2026-10-19	read_supported	券后46/在售价79，包邮	S01
+SRC-S-024	虎窝淘：Differin阿达帕林0.1% 30g香港直邮	https://tao.hooos.com/goods_zbB3b6ahetaV6Vd0rYsvdKTdt4-aAZjjVSdb6Q77MkTz.html	虎窝淘（天猫价格镜像）	platform_listing		2026-10-19	read_supported	优惠价175.03/在售价253.66，跨境	S03
+SRC-S-025	虎窝淘：丽芙阿达帕林凝胶0.1% 16g（阿里健康大药房）	https://tao.hooos.com/goods_wAnndMKSgtDO5Pm5WOHoBrsbtd-PNzeejCKnzZNmVVhY.html	虎窝淘（天猫价格镜像）	platform_listing		2026-10-19	read_supported	优惠价10.9/原价30	S03
+SRC-S-026	虎窝淘：班赛过氧苯甲酰凝胶5% 15g（旭辉医药专营店）	https://tao.hooos.com/goods_POgZQzKNS3t6aWa5KwasvDrUPt6-d8ZBBDF0wyMm9XntR.html	虎窝淘（天猫价格镜像）	platform_listing		2026-10-19	read_supported	券后53/在售价55	S03
+SRC-S-027	虎窝淘：东药克林霉素磷酸酯凝胶1% 20g（国胜大药房旗舰店）	https://tao.hooos.com/goods_0pVDwOBH7t8bGb26pJu00Oi2t6-qKZqqrSroObQDa0C7M.html	虎窝淘（天猫价格镜像）	platform_listing		2026-10-19	read_supported	优惠价7.99/在售价9.4/原价50，包邮	S03
+SRC-S-028	京东自营：珂润洁面 1750038	https://item.m.jd.com/product/1750038.html	京东	platform_listing		2026-10-19	restricted	价格显示“登录查看价格”；可见59元免基础运费	S01
+SRC-S-029	异维A酸胶丸说明书	https://www.nmpa.gov.cn/wwwroot/hysms3/098.htm	国家药品监督管理局	professional_guideline		2026-10-19	located_only	底稿引用；本轮未打开（同域名其他页返回HTTP 412），正文未引	S03
+SRC-S-030	315价格网：阿达帕林凝胶价格	https://www.315jiage.cn/mn249143.aspx	315jiage	platform_listing		2026-10-19	located_only	底稿称30g最低5.92元；本轮未打开，未采用	S03
+SRC-S-031	寻美网：北医三院果酸换肤价格转述	https://zx.xywy.com/bangdan/1803613.html	寻美网	news	2026-03-17	2026-10-19	located_only	底稿称单次1500元；个案转述，本轮未核实，未入正文	S03
+SRC-S-032	中华人民共和国消费者权益保护法实施条例	https://www.gov.cn/zhengce/zhengceku/202403/content_6940159.htm	国务院	government_policy	2024-03-19	2026-10-19	read_supported	第九条、第十一条搭配组合显著提示、不得强制购买	S02
+SRC-S-033	一文读懂特殊化妆品与普通化妆品的辨别秘籍	https://yjj.beijing.gov.cn/yjj/xxcx/kpxc/hzp36/743777602/index.html	北京市药品监督管理局	government_policy	2025-09-30	2026-10-21	read_supported	防晒属特殊化妆品；注册编号国产国妆特字、进口国妆特进字、港澳台国妆特制字；特殊化妆品必有国妆特开头注册编号，无编号切勿购买；可在国家药监局官网查询	S01

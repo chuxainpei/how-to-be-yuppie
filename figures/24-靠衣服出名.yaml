@@ -1,0 +1,12 @@
+type: cards
+title: 靠衣服出名的 8 个牌子
+cols: 3
+cards:
+  - {img: assets/logos/chanel.svg, title: "Chanel 香奈儿", text: "粗花呢、手袋、香水，顶奢，蓝血"}
+  - {img: assets/logos/dior.png, title: "Dior 迪奥", text: "高级时装，LVMH 的门面，蓝血"}
+  - {img: assets/logos/saint-laurent.png, title: "Saint Laurent 圣罗兰", text: "一身黑最酷，开云系，红血"}
+  - {img: assets/logos/versace.png, title: "Versace 范思哲", text: "美杜莎和大印花，如今归 Prada，红血"}
+  - {img: assets/logos/giorgio-armani.svg, title: "Giorgio Armani 阿玛尼", text: "西装最强，看清是哪条线，红血"}
+  - {img: assets/logos/calvin-klein.svg, title: "Calvin Klein", text: "极简，奥莱的牛仔内衣别当奢侈品，蓝血"}
+  - {img: assets/logos/burberry.svg, title: "Burberry 博柏利", text: "风衣和格纹围巾，红血"}
+  - {img: assets/logos/ralph-lauren.svg, title: "Ralph Lauren 拉夫劳伦", text: "小马 Polo 衫，奥莱最值"}

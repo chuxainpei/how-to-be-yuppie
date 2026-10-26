@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://chuxainpei.github.io/how-to-be-yuppie/sitemap.xml

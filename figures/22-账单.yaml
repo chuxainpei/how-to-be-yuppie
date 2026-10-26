@@ -1,0 +1,20 @@
+type: bill
+title: 同样是放松一下，三种花法
+bills:
+  - name: 连锁店 60 分钟
+    rows:
+      - {label: 基础足道, sub: 泡脚常算在时长里, amount: "169"}
+      - {label: 办卡充值, sub: 第一次一律不办, amount: "0", kind: hidden}
+    total: 169 元
+  - name: 酒店 SPA 90 分钟
+    rows:
+      - {label: 经络按摩, amount: "1,580"}
+      - {label: 服务费, sub: 另加 15%, amount: "237", kind: hidden}
+    total: 1,817 元
+    calc: 每分钟贵了七倍多
+  - name: 汤泉过一夜
+    rows:
+      - {label: 门票, sub: 能泡十几个小时, amount: "300"}
+      - {label: 过夜费, sub: 凌晨 2 点到 6 点还在店里, amount: "69", kind: hidden}
+    total: 369 元
+    calc: 晚上九点后买夜间票更省

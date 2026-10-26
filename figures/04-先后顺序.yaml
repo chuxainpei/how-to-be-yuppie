@@ -1,0 +1,25 @@
+type: decision
+title: 牙不齐、牙不白，各自先做什么
+decisions:
+  - question: 牙不齐
+    branches:
+      - if: 牙缝散开、牙龈往下退
+        text: 多半是牙周的问题
+        then: 先去牙周科
+      - if: 拥挤、龅牙、咬不上
+        text: 拍片面诊，分清是牙还是骨头的问题
+        then: 趁年轻正畸
+      - if: “七天变整齐”的广告
+        text: 把真牙磨小再套牙冠，牙根没动
+        then: 别碰
+  - question: 牙不白
+    branches:
+      - if: 第一步：洗牙
+        text: 去掉茶渍烟渍，看清牙本来的颜色
+        then: 每年一次，本来就该做
+      - if: 第二步：漂白
+        text: 诊室美白或正规美白产品，不磨牙
+        then: 会褪色、可能敏感几天
+      - if: 最后：贴面
+        text: 磨掉一层真牙，不可逆，要一辈子维护
+        then: 漂白搞不定才考虑
