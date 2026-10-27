@@ -1,0 +1,20 @@
+type: cards
+title: 运动区常见的 16 块招牌
+cols: 4
+cards:
+  - {img: assets/logos/nike.svg, title: "Nike 耐克", text: "什么都做"}
+  - {img: assets/logos/adidas.svg, title: "adidas 阿迪达斯", text: "三叶草是穿搭线"}
+  - {img: assets/logos/puma.svg, title: "PUMA 彪马", text: "安踏是大股东"}
+  - {img: assets/logos/anta.png, title: "ANTA 安踏", text: "国产跑鞋能打"}
+  - {img: assets/logos/li-ning.svg, title: "LI-NING 李宁", text: "赤兔跑鞋很值"}
+  - {img: assets/logos/asics.svg, title: "ASICS 亚瑟士", text: "跑鞋老牌，稳"}
+  - {title: "New Balance 新百伦", text: "跑鞋和复古鞋"}
+  - {img: assets/logos/hoka.png, title: "HOKA", text: "厚底，脚感软"}
+  - {img: assets/logos/on.svg, title: "On 昂跑", text: "瑞士来的跑鞋"}
+  - {img: assets/logos/lululemon.png, title: "lululemon 露露乐蒙", text: "瑜伽裤贵在面料"}
+  - {img: assets/logos/arcteryx.svg, title: "Arc'teryx 始祖鸟", text: "别为那只鸟买单"}
+  - {img: assets/logos/salomon.svg, title: "Salomon 萨洛蒙", text: "越野跑和徒步"}
+  - {img: assets/logos/the-north-face.png, title: "The North Face 北面", text: "硬壳够用"}
+  - {img: assets/logos/columbia.svg, title: "Columbia 哥伦比亚", text: "徒步入门实在"}
+  - {img: assets/logos/descente.png, title: "DESCENTE 迪桑特", text: "滑雪骑行服"}
+  - {img: assets/logos/fila.png, title: "FILA 斐乐", text: "买的是款式"}

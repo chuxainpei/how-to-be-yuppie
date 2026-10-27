@@ -1,0 +1,17 @@
+type: bill
+title: 一年两百多小时，先看清这笔账
+bills:
+  - name: 一周练三次
+    rows:
+      - {label: 训练本身, sub: 每次, amount: "60 分钟"}
+      - {label: 路上、换衣服、洗澡, sub: 最容易被忽略，离得远还会翻倍, amount: "40 分钟", kind: hidden}
+      - {label: 每周三次, amount: "5 小时"}
+    total: 一年约 260 小时
+    calc: 相当于每周多上一门五学时的课
+  - name: 一周练两次
+    rows:
+      - {label: 训练本身, sub: 每次, amount: "60 分钟"}
+      - {label: 路上、换衣服、洗澡, sub: 学校健身房能压到最短, amount: "40 分钟", kind: hidden}
+      - {label: 每周两次, amount: "3 小时 20 分"}
+    total: 一年约 170 小时
+    calc: 刚好够到每周两天力量训练的下限

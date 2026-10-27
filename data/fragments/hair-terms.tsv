@@ -1,0 +1,29 @@
+term	aliases	definition	topic_ids
+长度	length	剪完后顶部、两侧、后面各区留下的头发长度；沟通时用身体部位或指节定位	H01
+层次	layers；高层次/低层次	上下或内外头发长度不同，用来做蓬松或动感；门店说法不统一，需追问位置	H01
+打薄	去量；thinning；texturizing	用牙剪或点剪减少发量和重量，不一定改变长度	H01
+纹理（剪）	point cutting；texture	剪刀尖斜剪发尾使线条不齐；与“纹理烫”不同	H01;H03
+渐变	fade；渐变推	两侧和后面从很短逐渐过渡到较长、无明显分界	H01
+低/中/高渐变	low/mid/high fade	渐变起点分别约在耳与后颈上方、太阳穴附近、头侧较高处	H01
+贴头皮渐变	skin fade；bald fade	渐变最下方推到见皮肤	H01
+修边	taper；收边	只在鬓角和后颈边缘逐渐变短，保留更多长度	H01
+铲青	undercut；推边	两侧或后颈推短、顶部明显更长且不衔接	H01
+推剪	clipper；电推；限位梳 guard	用推子按固定长度剪；限位梳常按1/8英寸递增（1号约3毫米），国产推子可能直接标毫米	H01
+梳剪	scissor-over-comb	用梳子挑起头发再用剪刀剪	H01
+鬓角	sideburns	耳前的头发	H01
+后颈收尾	neckline；发际线收尾	后颈发际的形状，可方、圆或自然渐变	H01
+刘海	fringe；bangs	额前头发；剪前确认按干发还是湿发长度	H01
+永久性染发	氧化型染发；permanent hair dye	染料前体与过氧化氢在碱性条件下进入发内氧化成色素，洗不掉	H02
+漂发	bleach；脱色	用氧化剂去除头发原有黑色素，浅色亮色常需先漂	H02
+挑染	highlights；挂耳染；画染	只处理部分发束；是否漂、漂几次需问	H02
+补根	root touch-up；retouch	只处理新长出的一段，避免与已染漂部分重叠	H02
+对苯二胺	PPD；paraphenylenediamine	永久染发常用染料前体，常见接触性致敏原	H02
+致敏	sensitization	免疫系统首次“认识”某成分，当次可无症状，之后接触才出现过敏	H02
+刺激性接触性皮炎	irritant contact dermatitis	化学物质直接损伤皮肤，不经免疫记忆，接触后数分钟到数小时出现	H02
+过敏性接触性皮炎	allergic contact dermatitis	已致敏者再接触后出现红痒肿水疱，常在12小时后、约48小时最明显	H02
+皮肤测试	预警测试；patch test；skin allergy test	按产品说明（多为染前至少48小时）在耳后等处试用；阴性不保证不过敏	H02
+特殊化妆品注册证编号	国妆特字（旧称）	染发、烫发产品在中国须经国家药监局注册，标签应标注编号	H02;H03
+二硫键	disulfide bond	角蛋白间的硫—硫连接，维持头发形状；烫发先还原断开部分、再氧化重连	H03
+冷烫	cold perm；cold wave	不另外加热、靠药水常温作用的烫发；常说卷型较紧均匀	H03
+热烫	数码烫；digital perm；hot perm	上药后用电控加热卷杠定型；品牌资料称多为中段至发尾松散波浪	H03
+发根烫	root perm；蓬松烫	只处理近发根一段增加蓬松；随新发长出位置下移	H03

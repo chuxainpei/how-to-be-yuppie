@@ -1,0 +1,17 @@
+type: bill
+title: 两个人坐一晚：酒店酒吧和胡同小酒吧
+bills:
+  - name: 酒店酒吧
+    rows:
+      - {label: 特调 1 杯, amount: "158"}
+      - {label: 无酒精特调 1 杯, amount: "118"}
+      - {label: 薯条 1 份, amount: "128"}
+      - {label: 服务费 15%, sub: 酒单最底下那行小字, amount: "61", kind: hidden}
+    total: 约 465 元
+    calc: 每人两百三左右
+  - name: 胡同小酒吧
+    rows:
+      - {label: 无酒精特调 2 杯, sub: 每杯 68, amount: "136"}
+      - {label: 服务费, sub: 点单前问一句, amount: "?", kind: hidden}
+    total: 约 136 元
+    calc: 每人六十多

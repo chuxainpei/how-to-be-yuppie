@@ -1,0 +1,35 @@
+price_id	topic_id	city	institution	item	amount	currency	unit	includes	excludes	price_type	effective_date	accessed_date	source_id	notes
+P-H01-01	H01	北京	物美超市·十分有型快剪	剪发	10	CNY	元/位	剪发	洗发、吹风	institution_posted	2026-03-20	2026-10-19	SRC-H-018	企业新闻稿所述10元；北京日报2025-01-25探访沁山水店亦为10元（SRC-H-019）
+P-H01-02	H01	北京	琦艺理发店（朝阳区农光东里）	剪发	20	CNY	元/次	剪发		list	2025-04-23	2026-10-19	SRC-H-020	媒体报道的店内A4价目表；报道日期非价目生效日
+P-H01-03	H01	北京	琦艺理发店（朝阳区农光东里）	洗剪吹	25	CNY	元/次	洗、剪、吹		list	2025-04-23	2026-10-19	SRC-H-020	同上
+P-H01-04	H01	北京	美好理发店（朝阳区劲松二区）	剪短发	30	CNY	元/次	剪发	未写是否含洗	list	2025-01-25	2026-10-19	SRC-H-019	媒体报道的墙上价目表
+P-H01-05	H01	北京	美好理发店（朝阳区劲松二区）	剪中长发	40	CNY	元/次	剪发	未写是否含洗	list	2025-01-25	2026-10-19	SRC-H-019	同上
+P-H01-06	H01	北京	北京某大型连锁理发店（报道未具名）	剪发·设计师	68	CNY	元/次	剪发		list	2025-01-03	2026-10-19	SRC-H-021	门口价目表；原价128元档活动降至68元
+P-H01-07	H01	北京	北京某大型连锁理发店（报道未具名）	剪发·设计总监	128	CNY	元/次	剪发		list	2025-01-03	2026-10-19	SRC-H-021	
+P-H01-08	H01	北京	北京某大型连锁理发店（报道未具名）	剪发·创意总监	188	CNY	元/次	剪发		list	2025-01-03	2026-10-19	SRC-H-021	
+P-H01-09	H01	北京	北京某大型连锁理发店（报道未具名）	剪发·创意店长	288	CNY	元/次	剪发		list	2025-01-03	2026-10-19	SRC-H-021	
+P-H01-10	H01	北京	D'D Salon（朝阳区，秀水街附近）	女宾剪发/造型·初级	68-168	CNY	元/次	剪发/造型	洗发/吹干另列58-98元	institution_posted		2026-10-19	SRC-H-022	官网价目页无日期
+P-H01-11	H01	北京	D'D Salon（朝阳区，秀水街附近）	女宾剪发/造型·高级	100-250	CNY	元/次	剪发/造型	洗发/吹干另列78-138元	institution_posted		2026-10-19	SRC-H-022	
+P-H01-12	H01	北京	D'D Salon（朝阳区，秀水街附近）	女宾剪发/造型·Donna	180-350	CNY	元/次	剪发/造型	洗发/吹干另列98-168元	institution_posted		2026-10-19	SRC-H-022	
+P-H01-13	H01	北京	D'D Salon（朝阳区，秀水街附近）	男宾剪发/造型·高级	100	CNY	元/次	剪发/造型	洗发/吹干另列58元	institution_posted		2026-10-19	SRC-H-022	用于正文年账算式(100+58)×13=2054
+P-H01-14	H01	北京	D'D Salon（朝阳区，秀水街附近）	男宾剪发/造型·Donna	180	CNY	元/次	剪发/造型	洗发/吹干另列98元	institution_posted		2026-10-19	SRC-H-022	
+P-H01-15	H01	北京	巴黎劳伦 Laurent Falcon（国贸商城CB1007）	剪发·Stylist	180	CNY	元/次	剪发	吹发/造型另列	institution_posted		2026-10-19	SRC-H-023	官网价目页无日期；分级Stylist180/Senior Stylist280/Master Stylist380/Senior Design Master580/Chief Design Master780
+P-H01-16	H01	北京	巴黎劳伦 Laurent Falcon（国贸商城CB1007）	剪发·Chief Design Master	780	CNY	元/次	剪发	吹发/造型另列	institution_posted		2026-10-19	SRC-H-023	
+P-H01-17	H01	北京	巴黎劳伦 Laurent Falcon（国贸商城CB1007）	剪发·Mr. Lauren（女宾/男宾）	1200/680	CNY	元/次	剪发		institution_posted		2026-10-19	SRC-H-023	
+P-H01-18	H01	北京	东方名剪（多家门店）	专业剪发原价	90	CNY	元/次	剪发		promo	2025-01-08	2026-10-19	SRC-H-024	市妇联公益活动说明中的“原价”，活动价25元仅限网约配送员；不作现价
+P-H01-19	H01	香港	QB HOUSE 香港	剪发	80	HKD	港元/次	剪发、空气清洁碎发	洗发	institution_posted		2026-10-19	SRC-H-001	港币，不折算为人民币，不作大陆样本
+P-H02-01	H02	北京	D'D Salon（朝阳区，秀水街附近）	染发	440/550/750	CNY	元/次（S/M/L）	染发	是否含剪洗吹未写	institution_posted		2026-10-19	SRC-H-022	S/M/L推测为长度档，待核
+P-H02-02	H02	北京	D'D Salon（朝阳区，秀水街附近）	挑染（锡纸）	450/650/850	CNY	元/次（S/M/L）	挑染	漂发次数未写	institution_posted		2026-10-19	SRC-H-022	
+P-H02-03	H02	北京	D'D Salon（朝阳区，秀水街附近）	漂发	300-500	CNY	元/次	漂发		institution_posted		2026-10-19	SRC-H-022	另有帽子挑染300、漂染100-300、叠染300-500
+P-H02-04	H02	北京	巴黎劳伦 Laurent Falcon（国贸商城CB1007）	染发·施华蔻	580/880/1180/1480	CNY	元/次（短/中/长/超长）	染发	是否含剪吹未写	institution_posted		2026-10-19	SRC-H-023	
+P-H02-05	H02	北京	巴黎劳伦 Laurent Falcon（国贸商城CB1007）	染发·欧莱雅	780/1180/1480/1980	CNY	元/次（短/中/长/超长）	染发	是否含剪吹未写	institution_posted		2026-10-19	SRC-H-023	
+P-H02-06	H02	北京	巴黎劳伦 Laurent Falcon（国贸商城CB1007）	染发·INOA	1080/1680/1980/2380	CNY	元/次（短/中/长/超长）	染发	是否含剪吹未写	institution_posted		2026-10-19	SRC-H-023	
+P-H02-07	H02	北京	巴黎劳伦 Laurent Falcon（国贸商城CB1007）	挑染（Highlighted）	680/780/880；局部480	CNY	元/次（短/中/长）	挑染	是否先漂未写	institution_posted		2026-10-19	SRC-H-023	
+P-H03-01	H03	北京	D'D Salon（朝阳区，秀水街附近）	烫发	400/550/750	CNY	元/次（S/M/L）	烫发	是否含剪洗吹护理未写	institution_posted		2026-10-19	SRC-H-022	
+P-H03-02	H03	北京	D'D Salon（朝阳区，秀水街附近）	局部烫发	150-500	CNY	元/次	局部烫		institution_posted		2026-10-19	SRC-H-022	
+P-H03-03	H03	北京	D'D Salon（朝阳区，秀水街附近）	直发	400/600/800	CNY	元/次（S/M/L）	拉直		institution_posted		2026-10-19	SRC-H-022	
+P-H03-04	H03	北京	D'D Salon（朝阳区，秀水街附近）	护理·威娜	100/200/350	CNY	元/次（S/M/L）	护理		institution_posted		2026-10-19	SRC-H-022	常见加项参考
+P-H03-05	H03	北京	巴黎劳伦 Laurent Falcon（国贸商城CB1007）	冷烫	880/1280	CNY	元/次（短/中）	冷烫	是否含剪吹未写；长发未列	institution_posted		2026-10-19	SRC-H-023	
+P-H03-06	H03	北京	巴黎劳伦 Laurent Falcon（国贸商城CB1007）	刘海烫	580	CNY	元/次	刘海烫		institution_posted		2026-10-19	SRC-H-023	
+P-H03-07	H03	北京	巴黎劳伦 Laurent Falcon（国贸商城CB1007）	热烫·欧莱雅	1680/1980/2280/2680	CNY	元/次（短/中/长/超长）	热烫	是否含剪吹未写	institution_posted		2026-10-19	SRC-H-023	
+P-H03-08	H03	北京	巴黎劳伦 Laurent Falcon（国贸商城CB1007）	护理·深层修护发膜	480/580/680	CNY	元/次（短/中/长）	护理		institution_posted		2026-10-19	SRC-H-023	常见加项参考

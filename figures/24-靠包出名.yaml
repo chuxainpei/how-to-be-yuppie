@@ -1,0 +1,13 @@
+type: cards
+title: 靠包出名的 9 个牌子
+cols: 3
+cards:
+  - {img: assets/logos/hermes.svg, title: "Hermès 爱马仕", text: "马具起家，顶奢天花板"}
+  - {img: assets/logos/louis-vuitton.png, title: "Louis Vuitton 路易威登", text: "旅行箱起家，老花满街，蓝血"}
+  - {img: assets/logos/gucci.png, title: "Gucci 古驰", text: "开云的台柱子，GG 花纹和马衔扣，蓝血"}
+  - {img: assets/logos/prada.png, title: "Prada 普拉达", text: "尼龙包和倒三角牌，蓝血"}
+  - {img: assets/logos/bottega-veneta.png, title: "Bottega Veneta 葆蝶家", text: "编织皮具，不靠 logo 出名"}
+  - {img: assets/logos/loewe.png, title: "Loewe 罗意威", text: "西班牙起家的皮具老店，归 LVMH"}
+  - {img: assets/logos/fendi.png, title: "Fendi 芬迪", text: "罗马来的，FF 花纹和皮草"}
+  - {img: assets/logos/coach.png, title: "Coach 蔻驰", text: "美式日常皮具，入门首选"}
+  - {img: assets/logos/longchamp.svg, title: "Longchamp 珑骧", text: "折叠尼龙包，第一只牌子包"}

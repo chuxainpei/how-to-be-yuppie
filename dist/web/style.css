@@ -1,0 +1,50 @@
+
+/* 叠加在 pkusi.com/site.css 之上，沿用个人主页的配色、字体与虚线分隔 */
+body{font-family:var(--sans),"PingFang SC","Hiragino Sans GB","Noto Sans CJK SC","Microsoft YaHei",sans-serif}
+.nav-link{white-space:nowrap}
+.sec-head h2{font-family:"Songti SC","Noto Serif CJK SC","Source Han Serif SC",var(--serif);font-weight:600;font-size:24px;white-space:nowrap}
+.y-hero{padding:56px var(--pad) 34px}
+.y-hero .name{font-size:44px;white-space:normal;line-height:1.15}
+.y-hero .name .zh{font-family:"Songti SC","Noto Serif CJK SC","Source Han Serif SC",var(--serif);font-weight:600;letter-spacing:.02em}
+.y-hero .role{margin-top:12px;font-size:13px}
+.y-hero .lede{margin-top:18px;color:var(--fg-2);line-height:1.8;max-width:34em}
+.y-links{display:flex;flex-wrap:wrap;gap:8px;margin-top:20px}
+.y-pill{display:inline-flex;align-items:center;height:30px;padding:0 13px;border-radius:99px;border:1px solid var(--edge);background:var(--card);font:500 12.5px/1 var(--sans);color:var(--fg-2);transition:border-color .2s,background-color .2s,color .2s}
+.y-pill:hover{color:var(--fg);border-color:var(--line-2);background:var(--hover)}
+.y-toc>a{display:grid;grid-template-columns:44px 1fr;gap:12px;padding:13px 0;transition:color .2s}
+.y-toc>a+a{border-top:1px dashed var(--line)}
+.y-toc .k{font:12px/1.9 var(--mono);color:var(--soft)}
+.y-toc b{display:block;font-weight:500;color:var(--fg);line-height:1.5}
+.y-toc span.s{display:block;margin-top:3px;font-size:13.5px;line-height:1.6;color:var(--muted)}
+.y-toc>a:hover b{text-decoration:underline;text-underline-offset:3px;text-decoration-color:var(--line-2)}
+.y-art-head{padding:44px var(--pad) 22px}
+.y-art-head .k{font:12px/1 var(--mono);color:var(--soft)}
+.y-art-head h1{margin-top:14px;font-family:"Songti SC","Noto Serif CJK SC","Source Han Serif SC",var(--serif);font-weight:600;font-size:32px;line-height:1.3;letter-spacing:.01em}
+.prose{font-size:16px}
+.prose p,.prose li{color:var(--fg-2);line-height:1.9}
+.prose p+p{margin-top:16px}
+.prose h2{margin:40px 0 14px;font-size:20px;font-weight:600;line-height:1.4;color:var(--fg)}
+.prose h3{margin:28px 0 10px;font-size:17px;font-weight:600}
+.prose strong,.prose b{font-weight:600;color:var(--fg)}
+.prose a{color:var(--fg);text-decoration:underline;text-decoration-color:var(--line-2);text-underline-offset:3px}
+.prose a:hover{text-decoration-color:var(--fg)}
+.prose ul,.prose ol{margin:14px 0;padding-left:0}
+.prose ul{list-style:none}.prose ul>li{position:relative;padding-left:16px}
+.prose ul>li::before{content:'';position:absolute;left:2px;top:.95em;width:5px;height:1px;background:var(--soft)}
+.prose ol{padding-left:1.4em}.prose li+li{margin-top:6px}
+.prose blockquote{margin:22px 0;padding:2px 0 2px 16px;border-left:2px solid var(--line-2)}
+.prose blockquote p{color:var(--fg)}
+.prose img{margin:26px auto;border-radius:12px;border:1px solid var(--edge);background:#fff}
+.prose hr{border:0;height:1px;margin:32px 0;background:linear-gradient(to right,var(--soft) 1px,transparent 1px) 0 0/4px 1px repeat-x}
+.prose table{width:100%;border-collapse:collapse;margin:20px 0;font-size:14px}
+.prose td,.prose th{border-bottom:1px dashed var(--line);padding:8px 6px;text-align:left}
+.prose .ref p,.prose .ref li{font-size:13.5px;color:var(--muted);line-height:1.7}
+.prose .ref a{word-break:break-all;color:var(--muted)}
+.y-pn{display:grid;grid-template-columns:1fr 1fr;gap:10px;padding:22px var(--pad) 34px}
+.y-pn a{display:block;padding:14px 16px;border-radius:12px;border:1px solid var(--edge);background:var(--card);transition:border-color .2s}
+.y-pn a:hover{border-color:var(--line-2)}
+.y-pn .k{display:block;font:11px/1 var(--mono);color:var(--soft);margin-bottom:8px}
+.y-pn b{font-weight:500;font-size:14.5px;line-height:1.5}
+.y-pn .n{text-align:right;grid-column:2}
+html.dark .prose img{opacity:.92}
+@media(max-width:560px){.y-hero .name{font-size:34px}.y-art-head h1{font-size:26px}.prose{font-size:15.5px}.y-pn{grid-template-columns:1fr}.y-pn .n{grid-column:1}}

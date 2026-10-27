@@ -1,0 +1,28 @@
+source_id	title	url	publisher	source_type	published_date	accessed_date	verification_status	supports	topic_ids
+SRC-C-001	美团团购服务保障	https://rules-center.meituan.com/m/detail/guize/386003	美团规则中心	platform_rule	2026-01-01	2026-10-19	read_supported	未消费随时退、过期自动退（以页面注明为准）；退款扣除抵用券积分促销抵扣	C01;C02
+SRC-C-002	美团团购用户服务条款（v1.6）	https://rules-center.meituan.com/m/detail/guize/1	美团规则中心	platform_rule	2026-04-23	2026-10-19	read_supported	6.1须看有效期预约时间退款条件；6条不得在美团以外平台转售；7.2团购券不记名不挂失；7.6非美团渠道获得的券美团不担责；9.7优惠券不退回	C01;C02
+SRC-C-003	抖音生活服务商品退款服务规范	https://lifexue.com/rule/detail/123777	抖音生活服务学习中心	platform_rule	2026-07-29更新（2026-08-13生效）	2026-10-21	read_supported	随时退、过期退以商品详情页明确展示为准；预约/预售类以商家展示规则为准；未核销退款1-3个工作日内发起、原路退回、平台不收手续费；核销后1-5日内可在“我的订单”申请并经审核；红包抵用券优惠券积分不计入退款（2026-10-21读到全文）	C01
+SRC-C-004	抖音生活服务商家履约管理规范	https://lifexue.com/rule/detail/118609	抖音生活服务学习中心	platform_rule	2026-08-21	2026-10-21	read_supported	违规场景：未在详情页写明周末/节假日不可用却以此拒接；未说明的补差价或加购门槛；线上团购价/划线价高于线下实际售价；在预约、咨询阶段要求提供券码并核销（3.1、3.2、3.5、3.8；2026-10-21读到全文）	C01
+SRC-C-005	三大平台厦门餐饮价格战 京东团购加入竞争格局	http://xm.fjsen.com/2026-04/26/content_32175267.htm	厦门日报/东南网	news	2026-04-26	2026-10-19	read_supported	4月14日记者对同店同款套餐跨平台比价：京东约167、美团159.3、抖音154	C01
+SRC-C-006	团购价高于菜单价，优惠or套路？	https://www.dy001.cn/2026/0623/231437.shtml	丹阳日报/丹阳新闻网	news	2026-06-23	2026-10-19	read_supported	团购页单品标价68元高于纸质菜单54元等；明码标价规定	C01
+SRC-C-007	同一家海底捞同款麻辣烫：美团便宜的已售罄，闪购贵的随时能下单	https://news.qq.com/rain/a/20250815A06NVH00	华商报大风新闻	news	2025-08-15	2026-10-19	read_supported	神抢手券22.4元因缺货不可用、同店另一链接41.4元、闪购28.4元	C01
+SRC-C-008	美团反击抖音，上线「特价团购」	https://www.36kr.com/p/2181222866763011	36氪/蓝洞商业	news	2023-03-21（蓝洞商业，36氪转载）	2026-10-21	read_supported	2023-03-20记者在北京望京新世界：正一味石锅拌饭美团TG10超值双人餐62.3元与抖音DY16超值双人餐79.9元菜品完全相同；店员称美团有补贴；85度C黄金乳酪面包2个美团特价7.5元（原价12）（2026-10-21读到全文）	C01
+SRC-C-010	闲鱼社区信息发布规范公示通知	https://haibao.m.taobao.com/html/XZ9E4VaGM	闲鱼社区	platform_rule	2019-11-27（2019-12-04生效）	2026-10-19	read_supported	电子卡券定义；闲鱼合作回收商回收规则；禁止“不可查询的虚拟服务商品”等	C02
+SRC-C-011	闲鱼社区管理规范（试行）（第三方转载）	https://xygj.pro/website/content?article_id=498832766117253&category_id=220001&title=%E7%A4%BE%E5%8C%BA%E8%A7%84%E5%88%99&type=22	闲管家（转载）	platform_rule	未标	2026-10-19	located_only	在回收频道之外以闲置物品方式发布电子卡券属规避准入；确认收货前可申请退款，交易成功后不支持售后	C02
+SRC-C-012	闲鱼“描述不符全额退”服务规范（第三方转载）	https://xygj.pro/website/content?article_id=498767719605573&category_id=220001&title=%E7%A4%BE%E5%8C%BA%E8%A7%84%E5%88%99&type=22	闲管家（转载）	platform_rule	未标	2026-10-19	located_only	卡券服务类商品可开通；确认收货后60天内可申请	C02
+SRC-C-013	转售电子券遭退款“白嫖”，律师：二手平台、买家均要担责	https://www.thepaper.cn/newsDetail_forward_26068161	澎湃新闻	news	2024-01-19	2026-10-19	located_only	闲鱼以“虚拟商品未收到”支持买家仅退款的案例	C02
+SRC-C-014	星礼卡常见问题	https://www.starbucks.com.cn/help/gift	星巴克中国	merchant_rule	未标	2026-10-19	read_supported	星礼卡为不记名卡、有效期三年；App购买的星礼卡绑定账户不可转赠；退卡限原购买人、收余额1.5%手续费	C02
+SRC-C-015	星巴克单用途商业预付卡章程	https://www.starbucks.com.cn/help/legal/terms-of-starbucks-gift-card/	星巴克中国	merchant_rule	未标	2026-10-19	located_only	不记名、不挂失、不兑现（web_fetch未渲染正文，以搜索摘录定位）	C02
+SRC-C-016	麦当劳会员服务协议	https://www.mcdonalds.com.cn/page/member-service-agreement	金拱门（中国）有限公司	merchant_rule	2026-03-31（搜索显示）	2026-10-19	read_supported	各类卡券权益仅限个人购买使用，不能转让、转售、转发、截图、代下单	C02
+SRC-C-017	消费提示：认准麦当劳官方渠道，谨防诈骗	https://www.mcdonalds.com.cn/news/transaction-reminder	麦当劳中国	merchant_rule	2024-02-06	2026-10-19	read_supported	未经授权在二手平台售卖电子卡券可能无法正常使用；列出官方渠道	C02
+SRC-C-018	麦当劳食品礼券章程	https://www.mcdonalds.com.cn/page/gift-certificate-guideline	麦当劳中国	merchant_rule	未标	2026-10-19	read_supported	第十四条转售须事先取得麦当劳中国书面同意；第十五条不可挂失	C02
+SRC-C-020	买了优惠券店家却不接待，过期还不能退！探探糖平台遭消费者吐槽	https://news.qq.com/rain/a/20250521A09KEV00	南京零距离（江苏城市频道）	news	2025-05-21	2026-10-19	read_supported	探探糖隶属北京林汐科技有限公司；客服称订单有效期7天、低价竞拍秒杀不支持退款、可联系延期；商家终止合作仍在售	C03
+SRC-C-021	北京探探糖文化传媒有限公司（BOSS直聘公司页）	https://m.zhipin.com/companys/6382953be34839d203d-2ty-FVY~.html	BOSS直聘	reference_repo	未标	2026-10-19	located_only	招聘页自述探探糖为该公司旗下品牌、微信小程序、砍价自动降价；成立2023-09-21	C03
+SRC-C-022	北京林汐科技有限公司怎么样（企查查摘要）	https://www.qcc.com/ccomment/7d131e90029b867e5eab6ab2e98a9e3c	企查查	reference_repo	2026-10-19（页面生成）	2026-10-19	read_supported	成立2022-02-23、法定代表人宝罗、存续；页面标签“小微企业被执行人”、司法案件5条（AI生成摘要）	C03
+SRC-C-023	微信服务市场：探探糖 · 北京林汐科技有限公司	https://fuwu.weixin.qq.com/profile/sq_oCPcH7naJ5K0tRUR_IlppXfYZToY	腾讯微信服务市场	platform_rule	未标	2026-10-19	restricted	搜索摘录显示“探探糖 北京林汐科技有限公司”；web_fetch仅返回“请升级浏览器”	C03
+SRC-C-024	探探糖全额退款联系不到商家态度恶劣（黑猫投诉）	https://tousu.sina.cn/complaint/view/17388888739?sld=fd34ea3c980e0c39a99d4d4dca61b1a8	新浪黑猫投诉	personal_experience	2025-10-18	2026-10-19	located_only	单方投诉：同券价差、退款收30%占用费、超3次封号的规则截图	C03
+SRC-C-025	国内比美团更便宜的团购套餐	https://www.uscardforum.com/t/topic/526801/1	美卡论坛用户	personal_experience	未标	2026-10-19	located_only	用户描述降价拍卖、每日00:00更新、有效期7天、强退30%手续费、合作结束仍挂售	C03
+SRC-C-026	探探糖小程序（黑猫投诉，武汉按摩券）	https://tousu.sina.com.cn/complaint/view/17381768467?sld=e5cc5efba03137a3127019ed08261856	新浪黑猫投诉	personal_experience	2025-04-10	2026-10-19	located_only	用户称在武汉探探糖平台购买按摩券，预约已满，客服不予退款	C03
+SRC-C-027	盒友青年大学习：你已经长大该学会正确使用消费平台的福利了	https://www.vgover.com/news/221356	电玩帮	news	2026-06-19	2026-10-19	located_only	称探探糖基本不能退款、价格波动大、目前只开放部分一线城市	C03
+SRC-C-028	微信小程序平台运营规范	https://developers.weixin.qq.com/miniprogram/product/	腾讯微信公众平台	platform_rule	未标	2026-10-21	read_supported	2.3第12条：须如实充分披露活动规则、产品或服务要求与条件、机构与品牌信息、各方权利义务、咨询投诉渠道；2.14第6条：涉及退款的不得要求到小程序外申请，资金原路退回，不得强制退至余额、储值卡、积分、代金券	C03
+SRC-C-029	西塔老太太泥炉烤肉（北京望京店）大众点评移动版门店页	https://m.dianping.com/shop/1043739076	大众点评	platform_listing	未标	2026-10-21	restricted	未登录可见店名、分店、人均；“商家团购套餐”价格与内容折叠为“￥** 打开大众点评App查看”，无法取得同店同日套餐价（浏览器未登录访问）	C01

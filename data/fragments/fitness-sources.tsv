@@ -1,0 +1,22 @@
+source_id	title	url	publisher	source_type	published_date	accessed_date	verification_status	supports	topic_ids
+SRC-F-001	中国人群身体活动指南（2021）	https://html.rhhz.net/zhlxbx/20220102.htm	《中国人群身体活动指南》编写委员会（中华流行病学杂志）	professional_guideline	2022-01-10	2026-10-19	read_supported	18–64岁：150–300分钟中等或75–150分钟高强度；每周至少2天力量；安全活动；慢病先咨询医生	F01
+SRC-F-002	Physical activity（事实清单）	https://www.who.int/news-room/fact-sheets/detail/physical-activity	World Health Organization	professional_guideline	2024-06-26	2026-10-19	read_supported	31%成人未达推荐；身心健康益处	F01
+SRC-F-003	Delayed Onset Muscle Soreness (DOMS)	https://my.clevelandclinic.org/health/diseases/delayed-onset-muscle-soreness	Cleveland Clinic	professional_guideline	2025-12-19	2026-10-19	read_supported	1–3天出现、很少超5天；no pain no gain不一定对；休息/换部位；就医情形；热身慢慢开始放松	F01;F02
+SRC-F-004	Signs and Symptoms of Rhabdomyolysis	https://www.cdc.gov/niosh/rhabdo/signs-symptoms/index.html	CDC/NIOSH	government_policy	2025-01-14	2026-10-19	read_supported	肌痛超预期、茶色/可乐色尿、虚弱；立即就医；查CK	F01;F02
+SRC-F-005	中华人民共和国消费者权益保护法实施条例	https://www.gov.cn/zhengce/zhengceku/202403/content_6940159.htm	国务院	government_policy	2024-03-19	2026-10-19	read_supported	第二十一条停业迁移提前30日公告；第二十二条预付款书面合同、退还余额	F02
+SRC-F-006	北京市单用途预付卡管理条例	https://www.beijing.gov.cn/zhengce/dfxfg/202111/t20211130_2549001.html	北京市人大常委会（首都之窗）	government_policy	2021-11	2026-10-19	read_supported	第十五条格式条款无效；第十六条7日退卡5日退款；第十七条15日退余额	F02
+SRC-F-007	预付式消费十问十答	https://scjgj.beijing.gov.cn/zwxx/scjgdt/202209/t20220928_2824871.html	北京市市场监督管理局	government_policy	2022-09-27	2026-10-19	read_supported	七日冷静期解读；纠纷协商调解投诉	F02
+SRC-F-008	北京市体育健身行业预付费服务合同（2022）	https://scjgj.beijing.gov.cn/bsfw/bmfw/sfwbbm/shxfl/yfk/202204/t20220421_2684551.html	北京市市场监督管理局、北京市体育局	government_policy	2022-04-21	2026-10-19	read_supported	冷静期、暂停顺延、转让手续费、时效卡退费公式、重大疾病解除、健康信息、身体不适停止、私教不适用、年会员月缴提示	F01;F02
+SRC-F-009	关于推行北京市体育健身行业预付费服务合同示范文本的通知	https://tyj.beijing.gov.cn/bjsports/zfxxgk_/tzgg40/10962792/index.html	北京市体育局、北京市市场监督管理局	government_policy	2021-04-01	2026-10-19	read_supported	示范文本设置7天冷静期	F02
+SRC-F-010	北京市体育行业单用途预付卡备案和预收资金监管实施细则	https://www.beijing.gov.cn/zhengce/zhengcefagui/202605/t20260522_4662274.html	北京市体育局等五部门	government_policy	2026-05-19	2026-10-19	read_supported	第九条公示与京通查询；第十条30%存管；第十二条动态调整	F02
+SRC-F-011	超级猩猩常见问题（资费介绍）	https://www.supermonkey.com.cn/pc/faq/	超级猩猩	merchant_rule		2026-10-19	read_supported	团课69元每节起、按次付费、超猩卡9.5折	F01;F02
+SRC-F-012	2.3万家健身房关门了，乐刻还嫌自己跑得慢	https://www.huxiu.com/article/4893861.html	虎嗅	news	2026-09-26	2026-10-19	read_supported	Recore月卡499、私教300/节12次起购、3090元15节送30天；健怪兽月卡159	F01;F02
+SRC-F-013	昌平校园体育馆使用要求及收费标准	https://cpxy.bnu.edu.cn/cgjs/tyg/78868.html	北京师范大学昌平校园综合管理办公室	institution_price	2019-09-06	2026-10-19	read_supported	健身房对学生教职工免费；游泳5元/次	F01;F02
+SRC-F-014	中央财政资金补助体育场馆2019年开放工作方案——昌平体育馆	https://tyj.beijing.gov.cn/bjsports/zfxxgk_/tzgg40/1586961/index.html	北京市体育局	government_policy	2019-02-28	2026-10-19	read_supported	器械健身899元/年；器械＋游泳1600元/年	F01
+SRC-F-015	本周（9月5日-11日）各类农副产品量足价稳	https://www.beijingprice.cn/c/2026-09-11/561156.shtml	北京市价格监测中心	government_policy	2026-09-11	2026-10-19	read_supported	鸡蛋超市每斤6.37元	F01
+SRC-F-016	乐刻运动健身(悦荟店)	https://huodong.com/venue/detail/aabehq	活动网（第三方场馆聚合）	platform_listing		2026-10-19	read_supported	转述“截至2026年1月”月199/季549/年1599/体验9.9；非官方，低可靠	F02
+SRC-F-017	乐刻运动健身(北京城建·城悦荟店)	https://huodong.com/venue/detail/eyRqv	活动网（第三方场馆聚合）	platform_listing		2026-10-19	read_supported	转述北京单次39/月239/季639/年1999；非官方，低可靠	F02
+SRC-F-018	北京化工大学昌平新校区运动场地增添器材设备	https://www.caigou.com.cn/news/2023092015.shtml	教育装备采购网	news	2023-09-20	2026-10-19	located_only	检索摘录显示昌平校区体育馆设健身房及器材；未见收费；本轮未打开全文	F01
+SRC-F-019	健身房服务规范 DB11/T 2277—2024	https://tyj.beijing.gov.cn/bjsports/resource/cms/article/tyj_1399737/543510288/2025011516030941678.pdf	北京市市场监督管理局	government_policy	2024-06-28	2026-10-19	located_only	检索摘录：预付卡合同内容、告知退费；本轮未打开	F02
+SRC-F-020	NHS：Exercise health benefits	https://www.nhs.uk/live-well/exercise/exercise-health-benefits/	NHS	professional_guideline		2026-10-19	located_only	资料包勘误单列出，本轮未打开	F01
+SRC-F-021	健身-真实成本与预期管理（底稿引用：增肌速度、吸引力调研转述）	https://post.smzdm.com/p/a037znq8/	什么值得买（二手转述）	news	2026-07-25	2026-10-19	located_only	底稿称“匀称结实”偏好第一；未打开、二手转述，正文删除	F01

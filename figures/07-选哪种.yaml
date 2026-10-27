@@ -1,0 +1,21 @@
+type: decision
+title: 先问能不能做，再问选哪一种
+decisions:
+  - question: 能不能做？
+    branches:
+      - if: 没满十八岁，或度数还在涨
+        then: 先别做，继续戴镜
+      - if: 查出圆锥角膜、严重干眼、角膜太薄等
+        then: 激光这条路走不通，问医生别的办法
+      - if: 都没有
+        text: 先停戴隐形眼镜
+        then: 去做完整术前检查
+  - question: 做哪一种？
+    branches:
+      - if: 角膜够厚、度数在范围内、不想要瓣
+        then: 全飞秒可以进候选
+      - if: 角膜偏薄，或不适合全飞秒
+        then: 半飞秒或表层手术，不算降级
+      - if: 度数太高，角膜不够切
+        text: 眼内手术，风险和价格另算
+        then: 问问 ICL
